@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science is useful to mathematics, computer science, and almost every other scientific field. If a psychologist wanted to conduct a study on a new therapy, they would use data science to understand the results.
