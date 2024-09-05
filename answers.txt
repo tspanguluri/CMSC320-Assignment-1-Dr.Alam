@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science is useful to mathematics, computer science, and almost every other scientific field. If a psychologist wanted to conduct a study on a new therapy, they would use data science to understand the results.
+=======
+Q1: Why might be consider using git?
+
+Answer: Git is a method of version control that makes collaboration much easier. Many different people can work on the same codebase and have their work available to the other team members.
+>>>>>>> q1
 =======
 Q1: Why might be consider using git?
 
