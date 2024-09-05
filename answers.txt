@@ -1,6 +1,6 @@
 Q3: What is the difference between merging and rebasing?
 
-Answer: Rebasing is where one branch is used as the new main branch, but in merging the branches are combined.
+Answer: Rebasing chooses a branch to be the new main, whereas merging combines the branches.
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
